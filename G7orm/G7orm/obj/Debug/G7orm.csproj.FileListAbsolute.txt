@@ -1,0 +1,6 @@
+C:\Users\houmaïdy\Documents\GitHub\ORM\G7orm\G7orm\bin\Debug\G7orm.dll
+C:\Users\houmaïdy\Documents\GitHub\ORM\G7orm\G7orm\bin\Debug\G7orm.pdb
+C:\Users\houmaïdy\Documents\GitHub\ORM\G7orm\G7orm\obj\Debug\G7orm.csprojResolveAssemblyReference.cache
+C:\Users\houmaïdy\Documents\GitHub\ORM\G7orm\G7orm\obj\Debug\G7orm.csproj.CoreCompileInputs.cache
+C:\Users\houmaïdy\Documents\GitHub\ORM\G7orm\G7orm\obj\Debug\G7orm.dll
+C:\Users\houmaïdy\Documents\GitHub\ORM\G7orm\G7orm\obj\Debug\G7orm.pdb
